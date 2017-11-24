@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Helped in comparing the functions name in new and old file. The function name in the new file which was not there in the old file helped in pinpointing the typo.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I'll learn about how i develop code, and will be able to analyze it.
+
